@@ -1,0 +1,7 @@
+card__category => Programming
+
+card__title => Why 99% of People Fail to Learn Code, How To Parse JSON with Swift, A Deep Dive into AWS Data Services, The Best Golang IDE’s In 2023, Getting Started with SwiftyJSON
+
+card__excerpt => Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium aliquid consequuntur nesciunt officia recusandae deserunt.
+
+arrow sign => ➤
